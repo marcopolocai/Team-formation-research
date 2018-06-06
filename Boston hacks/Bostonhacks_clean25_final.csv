@@ -1,0 +1,1027 @@
+,cr1-cr-other,cr2-cr-other,cr3-cr-other,cr3-i1,cr3-i2,cr3-i3,cr3-i6,cr4-cr-other,cr5-cr-other,cr5-i1,cr5-i4,cr5-i5,cr5-i7,cr5-i9,cr6-i1,"ft1-ft-other::
+# of people wanted","ft2-ft-other::
+name of team","ft3-ft-other::
+team project focus","ft4-ft-other::
+team project technology","ft5-i1::
+front end wanted","ft5-i2::
+back end wanted","ft5-i3::
+data scientist wanted","ft5-i4::
+designer wanted","ft5-i5::
+ios person wanted","ft5-i6::
+other roles wanted","ft5-i7::
+web dev wanted","ft6-ft-other::
+team project experience","ft7-ft-other::
+team emails",other interest: ai,other interest: educ,other interest: technolog,other languages: matlab,"q1-i10::
+fashion","q1-i11::
+sports","q1-i12::
+arts","q1-i1::
+finance","q1-i2::
+politics","q1-i3::
+health","q1-i4::
+travel","q1-i5::
+entertainment","q1-i6::
+music","q1-i7::
+economics","q1-i8::
+social issues","q1-i9::
+gaming","q1-other::
+other interest","q2-i1::
+front end engineer","q2-i2::
+back end engineer","q2-i3::
+data scientist","q2-i4::
+designer","q2-i5::
+ios","q2-i6::
+andriod","q2-other::
+other role","q3-i10::
+game dev","q3-i1::
+web app dev","q3-i2::
+mobile app dev","q3-i3::
+data mining","q3-i4::
+machine intel","q3-i5::
+computer networks","q3-i6::
+algorithm design","q3-i7::
+vr/ar","q3-i8::
+hardware","q3-i9::
+IoT","q3-other::
+other experience","q4-i10::
+scala","q4-i1::
+html","q4-i2::
+js","q4-i3::
+java","q4-i4::
+c++","q4-i5::
+python","q4-i6::
+ruby","q4-i7::
+c#","q4-i8::
+sql","q4-i9::
+swift","q4-other::
+other languages","q5-i1::
+communication skills","q5-i2::
+design skills","q5-i3::
+presentation skills","q5-i4::
+project management skills","q6-i1::
+have fun","q6-i2::
+learn tech","q6-i3::
+win","q6-i4::
+socialize","q7-i1::
+great code","q7-i2::
+great concept","q7-i3::
+great design","q7-i4::
+great presentation","team join::
+if want to join a team","team::
+if have team","teammates::
+if looking for teammate",uid
+0,,Test please ignore,test please ignore,,,,,Test Please ignore,test please ignore,,,,,,Some experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59cbeb8626f0a206c2697897
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,3,3,3,4,4,4,5,5,4,5,3,3,,,,59cde708ca869411de5a75c4
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,Gaming,Machine Learning,,,,Designer,,,,,,,,,,,,,,,,Some experience,,,,Some experience,,,,,,5,2,3,3,5,5,,5,3,4,4,4,true,false,,59ce4a5fca869411de5a75ca
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,,Finance,,,Travel,Entertainment,Music,,,Gaming,,,,,Designer,,,,,,,,,,,,,,,,Some experience,Some experience,,,Some experience,Some experience,,,,,5,3,4,4,5,5,3,5,4,5,5,5,true,false,,59ce5da5ca869411de5a75cd
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Music,,,,,,,,,,,,,,,,,,No experience,,,,,,Some experience,,Completed one project/course,,Completed one project/course,,,,,,,,,,2,3,,,,,,,,true,false,59cecbe7ca869411de5a75de
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,Finance,,,Travel,,Music,,,Gaming,,,Back-end Engineer,,,,,,,Some experience,,,,Some experience,Completed one project/course,,Some experience,,,,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Some experience,Completed one project/course,,,Some experience,,,3,3,2,2,5,5,,5,3,4,3,3,,,,59cee716ca869411de5a75e2
+6,,,,,,,,,,,,,,,,2,Yello,Geophysics: earthquake search & seismic data visulization,"python, Generic Mapping Tool, earthquake, antelope",Front-end Engineer,,Data Scientist,,iOS,,none,this is our first Hackathon,59e54cd03b62e811697f4c35,,,,,,Sports,,,,Health,Travel,Entertainment,Music,,,,,,Back-end Engineer,,Designer,,,,,No experience,,Some experience,,,Some experience,,,,,,,,Completed one project/course,Some experience,Some experience,,,,,,3,3,3,2,5,4,2,3,2,5,3,3,,true,true,59cef8aaca869411de5a75ea
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,Politics,,,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,,,,,,,,,,,,,,Some experience,Completed one project/course,,,,,,,5,3,4,4,3,4,2,3,4,4,3,4,true,false,,59cefa09ca869411de5a75f3
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Some experience,,,,,,,,,Some experience,,Some experience,,,,,,,,3,2,4,3,3,5,4,5,4,5,4,5,,,,59cefd67ca869411de5a75fe
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,,59cefdefca869411de5a7601
+10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,Health,Travel,Entertainment,Music,,Social Issues,,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,,,,,Some experience,,,,,,Completed multiple projects/courses,Completed one project/course,Some experience,No experience,Completed one project/course,,,,,,3,2,2,2,5,5,5,5,4,5,4,4,true,false,,59cefdf0ca869411de5a7602
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,,,,,3,3,3,4,4,4,2,4,3,5,4,3,,,,59cf055dca869411de5a7616
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Politics,,Travel,,,,Social Issues,Gaming,,,,,,,,I have no idea. I'm not good at any particular thing. Speaker/Presenter maybe? Or I'll just be there for moral support.,,,,,,,,Some experience,,,,,,Some experience,,,Some experience,,,,,,2,3,3,4,4,2,,2,,5,4,3,true,false,,59cf05a0ca869411de5a7617
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,,,Economics,Social Issues,Gaming,,,,,Designer,,,,Some experience,,,Some experience,,,Some experience,,,,,,,,,,Completed multiple projects/courses,,,,,,5,4,5,4,3,5,2,4,3,4,5,4,true,false,,59cf0774ca869411de5a761b
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,Politics,Health,,,,Economics,Social Issues,,,Front-end Engineer,Back-end Engineer,,,,,,,Completed multiple projects/courses,,,,,,,,,,,Some experience,Some experience,,,Some experience,Completed multiple projects/courses,,Some experience,,,4,1,3,3,3,4,2,5,3,4,2,4,true,false,,59cf07c3ca869411de5a761d
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Data Scientist,Designer,,,Business,,,,Completed one project/course,,,,,,Completed one project/course,,,,,,,,,,,,,4,4,5,5,5,4,3,5,,4,4,4,true,false,,59cf0915ca869411de5a7620
+16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,Entertainment,Music,,,Gaming,,,Back-end Engineer,Data Scientist,Designer,,,,Some experience,Some experience,,Some experience,,Some experience,Completed one project/course,,,,,,,,Completed multiple projects/courses,Completed one project/course,,,Completed one project/course,,,,4,4,3,3,4,5,3,4,,,,,false,false,,59cf0c54ca869411de5a7626
+17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,Music,Economics,,Gaming,Computers,Front-end Engineer,Back-end Engineer,,,iOS,,,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Completed one project/course,Completed one project/course,,,Completed one project/course,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,,Completed one project/course,,5,3,4,3,5,5,3,5,5,5,5,5,true,false,,59cf0ea8ca869411de5a762a
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,,,Economics,,Gaming,,,Back-end Engineer,Data Scientist,,,Android,,,Some experience,Some experience,Completed one project/course,,Some experience,Completed one project/course,,,,,,,,Completed multiple projects/courses,,Completed multiple projects/courses,,,Completed one project/course,,,4,2,2,4,5,4,2,5,4,5,3,3,true,false,,59cf10f9ca869411de5a762c
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,,,,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,No experience,Completed multiple projects/courses,,Completed multiple projects/courses,Completed one project/course,Some experience,Some experience,No experience,Completed one project/course,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,Completed multiple projects/courses,,,Some experience,,,5,4,3,3,5,5,1,5,5,5,4,4,true,false,,59cf14b9ca869411de5a7633
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,Travel,Entertainment,Music,Economics,Social Issues,Gaming,ML/AI,,Back-end Engineer,,,,,,,Some experience,Completed one project/course,No experience,Some experience,,Some experience,,Completed one project/course,Completed one project/course,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,,Completed one project/course,,5,5,5,5,5,5,5,5,4,5,4,3,true,false,,59cf14f1ca869411de5a7634
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,Travel,,,,Social Issues,Gaming,Research,,Back-end Engineer,,,,Android,,,No experience,Completed one project/course,No experience,,,Completed one project/course,,Completed multiple projects/courses,No experience,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,,,,,3,3,3,3,5,5,5,5,5,5,5,5,true,false,,59cf1e6eca869411de5a763d
+22,,,,,,,,,,,,,,,,2,Team Snorlax,TBA,just the web! :),,Back-end Engineer,Data Scientist,,,,none!,"One team member is experienced in web dev but not backend, and the other is a beginner with experience in animation.",59d034fac8bca053d261c476,,,,,,,Arts,,,,,Entertainment,,Economics,,Gaming,Education,Front-end Engineer,,,Designer,,,,Some experience,Completed multiple projects/courses,,,,,,Some experience,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Some experience,,,No experience,,,,4,4,4,3,5,5,5,5,4,4,4,4,true,true,true,59cf29e1ca869411de5a7644
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,,,,,Gaming,,,Back-end Engineer,,,,,,,Completed multiple projects/courses,,,,,Some experience,Some experience,,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,,Completed one project/course,Completed one project/course,,,4,3,3,3,4,4,4,4,3,4,3,4,,true,false,59cf3b35ca869411de5a7649
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,Music,Economics,,Gaming,,,,,,,,Unsure,,,,,,,,,,,,,Some experience,,Completed one project/course,,,,,,,,3,3,2,4,4,4,2,,4,5,4,3,,false,,59cf405cca869411de5a764a
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,,,,Completed multiple projects/courses,,,,,,Some experience,,,,,,,,Completed multiple projects/courses,Some experience,Some experience,,Some experience,,,,4,3,3,3,5,5,2,3,3,4,3,3,,true,false,59cf45c9ca869411de5a764b
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,iOS,Android,,,,,,,,Some experience,,Some experience,,,,,,,Completed one project/course,Completed one project/course,,,,,,4,4,4,3,5,5,,5,5,5,5,4,true,false,,59cf4709ca869411de5a764c
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,Social Issues,,Blockchain,Front-end Engineer,,Data Scientist,,,,,,,,Completed one project/course,Some experience,,,,Some experience,,,,Completed multiple projects/courses,Completed one project/course,,,Some experience,,,,,,5,4,5,5,5,4,5,5,4,4,3,3,true,false,,59cfb64fca869411de5a7657
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,Music,,,,,,,,Designer,,,,,,,,,,Some experience,,,,,,,No experience,Some experience,,Some experience,,,,,,3,3,3,3,3,4,,,3,3,3,2,,false,,59cfb92bca869411de5a7658
+29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,Finance,,Health,Travel,Entertainment,Music,Economics,Social Issues,,,Front-end Engineer,,,,,,,,Completed one project/course,,,,,,,,,,,Completed one project/course,,,,,,,,,,3,2,2,4,5,5,3,5,4,4,4,4,true,false,,59cfc028ca869411de5a765d
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,Arts,,,,Travel,Entertainment,Music,Economics,Social Issues,Gaming,,,,Data Scientist,,,,,,Some experience,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Some experience,Some experience,,Completed multiple projects/courses,Completed multiple projects/courses,,,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,,,Completed one project/course,,R,2,4,3,4,4,5,3,4,3,4,4,4,,false,,59cfd239ca869411de5a7664
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,,Music,,,,,,,Data Scientist,,,,,,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,Some experience,Completed one project/course,,,,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,,,Completed multiple projects/courses,,,4,3,3,3,4,4,3,4,3,4,4,3,true,false,,59cfd7f5ca869411de5a7667
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,,,,,,Back-end Engineer,Data Scientist,,,,,,Some experience,Some experience,Some experience,Some experience,,Completed one project/course,,,,,,Some experience,Completed one project/course,Some experience,Some experience,Completed multiple projects/courses,,,Completed multiple projects/courses,,,5,4,4,4,5,4,5,5,4,5,4,3,true,false,,59cfd8f6ca869411de5a7669
+33,,,,,,,,,,,,,,,,2,None yet,,,,,,,,,,,,,,,,,Sports,Arts,,,Health,Travel,Entertainment,Music,,Social Issues,Gaming,,,Back-end Engineer,,Designer,,,,,Completed multiple projects/courses,,Some experience,Some experience,,Completed one project/course,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,,,Completed multiple projects/courses,,,5,4,5,4,3,5,5,4,5,5,5,5,,true,true,59cfdb27ca869411de5a766c
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,,,Some experience,Completed one project/course,,Some experience,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Some experience,,Some experience,Completed multiple projects/courses,Completed one project/course,,4,2,2,,5,5,2,3,5,5,4,4,,,,59cfe99cc8bca053d261c435
+35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,,Music,,,Gaming,,,,,Designer,,,,Some experience,,,,Some experience,Some experience,Some experience,,Some experience,Some experience,,,,No experience,Completed one project/course,Completed one project/course,Some experience,,,,,,4,3,3,3,5,5,2,,4,5,4,4,,true,false,59cfeda9c8bca053d261c437
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,,Entertainment,,,,Gaming,,Front-end Engineer,,,,,,,Completed one project/course,Some experience,,Some experience,,,Some experience,,Completed one project/course,,,,,No experience,Completed multiple projects/courses,Completed one project/course,,,Some experience,,,Matlab - 1 project/course,5,3,4,3,5,5,2,4,2,4,3,3,,true,false,59cffffbc8bca053d261c442
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,Music,,,Gaming,,,Back-end Engineer,,,,,,,,Some experience,,Some experience,Some experience,No experience,,,,,,No experience,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,,Some experience,,3,2,2,2,4,5,,4,5,4,4,4,true,false,,59d00b9bc8bca053d261c447
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,Politics,,Travel,,,,Social Issues,,,,,,Designer,,,,,Some experience,,,,,Some experience,,,,,,Some experience,,Completed one project/course,,Completed multiple projects/courses,,,,,,4,3,4,4,5,5,3,4,4,5,5,4,true,false,,59d00bdec8bca053d261c449
+39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,,,,,,,,No experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59d00e38c8bca053d261c452
+40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaming,,Front-end Engineer,,,,,,,,Some experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59d00eadc8bca053d261c453
+41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,Arts,Finance,,Health,Travel,Entertainment,Music,Economics,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,iOS,,,Some experience,Completed one project/course,Some experience,Completed multiple projects/courses,No experience,,Completed one project/course,,Some experience,,,,Some experience,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,Completed one project/course,,,,3,4,2,4,5,5,2,4,5,5,5,5,,true,,59d00ed7c8bca053d261c455
+42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,Politics,Health,Travel,Entertainment,Music,Economics,Social Issues,,,Front-end Engineer,Back-end Engineer,,,iOS,Android,,,Some experience,No experience,Some experience,,,Some experience,,Some experience,,,,Some experience,Some experience,Completed one project/course,,Completed one project/course,Some experience,,Some experience,,,5,4,5,4,3,5,4,4,5,5,4,5,,true,false,59d01adcc8bca053d261c460
+43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,Some experience,,,Some experience,Completed one project/course,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,,,,Some experience,,,4,3,3,4,5,5,4,4,3,5,5,5,true,false,,59d020bac8bca053d261c467
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,Travel,,Music,Economics,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,,,Some experience,,,,,,,,,,,Some experience,Some experience,Completed one project/course,Completed one project/course,Completed one project/course,,,,,,5,3,4,5,4,5,,3,4,4,4,3,,true,true,59d0219ac8bca053d261c468
+45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Politics,,,,,,Social Issues,Gaming,,,,Data Scientist,,,,,,Some experience,,Some experience,Some experience,,,,,,,,Completed one project/course,,Some experience,,Completed multiple projects/courses,,,Some experience,,,5,3,4,3,4,5,3,4,4,4,3,2,true,false,,59d02bfcc8bca053d261c46e
+46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,Some experience,Completed one project/course,Completed one project/course,No experience,Completed one project/course,No experience,,,,,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,No experience,Completed one project/course,Completed one project/course,,,3,3,3,3,5,4,1,4,4,4,4,4,true,false,,59d02c52c8bca053d261c46f
+47,,,,,,,,,,,,,,,,,Team Snorlax,tba,tba,,Back-end Engineer,,,,,,"Of the two, one is experienced in web dev but not web dev, the other is a beginner with some knowledge in design and animation",59cf29e1ca869411de5a7644,,,,,,,Arts,,,,,Entertainment,Music,,,Gaming,,Front-end Engineer,,,Designer,,,Design,,,No experience,,,,,,,,,,Some experience,Some experience,,No experience,,,,,,,4,4,4,4,4,5,3,3,4,4,5,4,,true,true,59d034fac8bca053d261c476
+48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,No experience,Some experience,,,,,,,,,,Some experience,Some experience,Completed one project/course,,Completed one project/course,,Some experience,,,,4,3,2,3,3,5,2,3,5,4,3,4,,,,59d03921c8bca053d261c479
+49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,Gaming,,,Back-end Engineer,,,,Android,,Some experience,Some experience,Some experience,,Some experience,,Some experience,Some experience,,,,,,,Completed one project/course,,Some experience,,,,,,3,3,3,3,4,5,4,4,3,5,4,3,true,false,,59d03f9ac8bca053d261c47d
+50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,,,,Back-end Engineer,Data Scientist,Designer,,,,,,,,,,,,,,,,,,Some experience,,Completed multiple projects/courses,,,,,,4,3,4,4,4,5,2,4,2,5,4,,true,false,,59d0484cc8bca053d261c482
+51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,iOS,,,,Completed one project/course,Completed one project/course,,,,Completed one project/course,Some experience,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,,,Completed one project/course,,5,2,5,5,5,5,5,5,5,5,5,5,,true,false,59d04c96c8bca053d261c483
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,Music,,Social Issues,Gaming,,,,,,,,Whatever role needs to be filled.,,,,,,,Completed one project/course,,Some experience,,,,,,Completed one project/course,No experience,Completed one project/course,,,,,,3,3,3,3,5,5,3,4,5,4,4,3,true,false,,59d0550ec8bca053d261c487
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Some experience,Some experience,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,,Completed one project/course,,,3,4,3,3,5,5,2,3,4,5,5,3,true,false,,59d0560fc8bca053d261c488
+54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,,,,,Some experience,,Completed one project/course,Completed one project/course,,,Some experience,,,,Some experience,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,Some experience,,,5,4,4,4,5,5,3,3,3,4,5,3,,false,,59d0569ac8bca053d261c489
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Some experience,,,Completed multiple projects/courses,,,,,,Some experience,,Some experience,Completed one project/course,Completed multiple projects/courses,,Completed one project/course,Some experience,,,4,3,5,2,5,5,5,5,4,5,3,5,,,,59d0581cc8bca053d261c48b
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,,iOS,,,Some experience,Completed one project/course,,Some experience,,,Some experience,,Some experience,,,,Some experience,Some experience,Completed one project/course,Some experience,Completed one project/course,,,Some experience,,,3,3,,2,4,3,2,2,4,3,4,,,true,false,59d065f6c8bca053d261c490
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,Android,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,,,Some experience,,,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,Some experience,,,2,4,,4,5,3,,3,4,2,5,,true,false,,59d06f24c8bca053d261c491
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Music,,,,,,Back-end Engineer,,,,,Hardware,,Some experience,,,,Completed one project/course,,Some experience,Completed multiple projects/courses,Completed one project/course,,,Some experience,Some experience,Some experience,Completed multiple projects/courses,Completed one project/course,,,,,,3,4,5,4,5,3,,4,3,3,5,4,true,false,,59d0f826c8bca053d261c49c
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,,,Economics,,Gaming,,Front-end Engineer,,,,,Android,,Some experience,Some experience,Completed multiple projects/courses,,,,Completed multiple projects/courses,,,Completed one project/course,,,Completed one project/course,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,Some experience,,,4,5,4,4,4,4,5,4,4,5,5,4,,true,false,59d0fb88c8bca053d261c49d
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,,,,,,,,Some experience,,,,,,,,,,,Some experience,Some experience,Completed one project/course,,Completed one project/course,,,Some experience,,,4,3,4,4,5,5,3,3,4,4,4,3,true,false,,59d11ba3c8bca053d261c4a9
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,Entertainment,,Economics,Social Issues,,,,Back-end Engineer,Data Scientist,,,,,,,,Some experience,Completed multiple projects/courses,,,,Completed multiple projects/courses,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,,,,MATLAB,5,4,4,4,5,5,3,5,4,5,5,3,true,false,,59d11e2dc8bca053d261c4aa
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anything psychology related,Front-end Engineer,,,Designer,,Android,,Completed multiple projects/courses,Completed one project/course,Completed one project/course,,Some experience,Completed one project/course,Completed one project/course,,Completed one project/course,,,,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed one project/course,Completed multiple projects/courses,,,,,4,,,5,3,5,,4,5,4,,,true,false,59d12814c8bca053d261c4ab
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,,Music,Economics,Social Issues,,,Front-end Engineer,,,,,Android,,,,,,,,,,,,,,Some experience,,Some experience,,Some experience,,,,,,5,3,3,4,3,5,2,3,4,4,3,3,true,false,,59d130f5c8bca053d261c4ae
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,Travel,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,,,Android,,Some experience,Completed one project/course,Completed multiple projects/courses,,,,Some experience,,,,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,,Some experience,,,5,4,4,4,4,4,4,4,4,4,4,4,true,true,false,59d13b4ec8bca053d261c4af
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaming,,,,,,,Android,,No experience,No experience,,,,,Some experience,,,,,,,Some experience,Completed one project/course,,,,,,,,,2,,2,5,5,3,5,4,5,4,1,true,false,,59d14c10c8bca053d261c4b7
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Some experience,Some experience,,,,,,Some experience,,Completed one project/course,,Some experience,Some experience,,,,,,,,,3,5,,4,4,5,5,3,,,,59d159a6c8bca053d261c4bd
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,Politics,,,,,Economics,,Gaming,,,Back-end Engineer,Data Scientist,Designer,,,,,,,,,,Some experience,,Some experience,,,,,,Completed one project/course,,Completed one project/course,,,,,,3,2,3,4,4,5,3,4,3,4,4,3,true,false,,59d15bb1c8bca053d261c4be
+68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,No experience,,,,,,,,,,,,Completed one project/course,,Some experience,,,,,,,,,,3,4,,2,4,4,4,2,,,,59d17576c8bca053d261c4c7
+69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,,,,,,,,Some experience,,,,,,,No experience,,,,Some experience,,,,,,,,,,4,4,3,5,5,5,3,5,4,5,5,4,true,false,,59d19783c8bca053d261c4d2
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,Entertainment,,,,Gaming,,,,,,,,,,,Some experience,,,,,,Some experience,,,,,,,Completed one project/course,,,,,,,4,4,2,4,5,5,3,5,4,5,5,4,false,false,true,59d199f3c8bca053d261c4d3
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,Some experience,,,,Some experience,Some experience,,Some experience,,,,Completed multiple projects/courses,Some experience,Some experience,,Completed one project/course,,,,,,3,5,2,,5,5,3,5,3,5,3,2,,,,59d19daec8bca053d261c4d5
+72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,Music,,,Gaming,Food,,Back-end Engineer,,,,,,No experience,,Some experience,,No experience,Completed one project/course,Completed one project/course,,Some experience,Completed one project/course,,,Some experience,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,,,,MATLAB,3,2,,4,5,5,,,3,4,5,5,,true,false,59d1a6cfc8bca053d261c4d9
+73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,Music,,,,Food,Front-end Engineer,,,Designer,,,,,Some experience,,,,,,,,,,,Completed one project/course,,Completed one project/course,,Completed one project/course,,,,,,4,5,3,3,5,5,,,3,4,5,4,,true,false,59d1a6dfc8bca053d261c4da
+74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Politics,Health,Travel,,,,Social Issues,,,,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,,Completed one project/course,,,Completed one project/course,,,,,,Completed one project/course,Some experience,Completed one project/course,,,,,Completed one project/course,,,4,4,4,4,4,4,3,4,3,5,4,5,true,false,,59d1a8f4c8bca053d261c4de
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,Travel,,Music,,,Gaming,,Front-end Engineer,,,,,Android,,,Completed one project/course,Some experience,,,,Completed one project/course,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,,,Some experience,,,4,4,4,3,4,5,3,5,5,5,4,4,false,false,,59d24946c8bca053d261c4f0
+76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,Politics,Health,,,,Economics,Social Issues,Gaming,,,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,Some experience,Completed one project/course,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,,,,Completed multiple projects/courses,Some experience,Completed one project/course,Some experience,Completed multiple projects/courses,,,Some experience,,,5,4,5,5,5,5,3,5,5,4,5,5,true,false,,59d25105c8bca053d261c4f1
+77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,Some experience,,,,,,,,,,,Completed one project/course,,Some experience,,,Completed one project/course,,,5,3,3,4,5,3,,5,5,5,4,4,,,,59d271b2c8bca053d261c4f5
+78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,,59d27a5bc8bca053d261c4f8
+79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,,Economics,Social Issues,Gaming,,,Back-end Engineer,Data Scientist,,,Android,,Completed one project/course,Some experience,Some experience,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,No experience,Completed multiple projects/courses,,,,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,Completed multiple projects/courses,,,2,3,2,4,5,5,2,4,1,5,5,3,false,false,true,59d27b5ac8bca053d261c4f9
+80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,Some experience,,,,,Some experience,,,,,,Some experience,Completed one project/course,Completed one project/course,,,,,,,,3,3,2,3,5,5,,3,4,3,3,3,,,,59d29df8c8bca053d261c500
+81,,,,,,,,,,,,,,,,,The Young Turks,"Gain experience, come up with a decent polished projec","Virows, and Mac OS as host",Front-end Engineer,Back-end Engineer,Data Scientist,Designer,iOS,,,Both Sophomoroes in Computer Science major,59de542d3b62e811697f4b6e,,,,,,,,,,,Travel,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,Some experience,Some experience,,,Some experience,,Completed one project/course,,Completed one project/course,,,,Some experience,Some experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,,,,,,3,4,5,4,5,4,2,5,4,4,4,4,true,false,true,59d2ed68c8bca053d261c517
+82,Shrug - ¯\_(ツ)_/¯,Something with Unity in AR or MI/AI,,,Back-end Engineer,Data Scientist,,"Unity, Python, JS, Java, Pytorch",Unknown,Finance,,Entertainment,,Gaming,Completed one project/course,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ML/AI/AR,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,Whatever I can,,Completed multiple projects/courses,Some experience,Some experience,Some experience,,Some experience,,Completed one project/course,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,Some experience,,,4,4,4,4,4,4,3,2,4,4,4,3,false,false,true,59d3bab5387840435cf9c6ed
+83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,Travel,,,Economics,,,,Front-end Engineer,,,Designer,,,,No experience,,,,Completed one project/course,,,,,Some experience,,,,,,,Completed multiple projects/courses,,,,,,4,4,3,3,4,5,4,5,5,5,5,5,true,false,,59d3d385387840435cf9c6f1
+84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,Travel,,,,Social Issues,,,Front-end Engineer,,,,,Android,,,Completed one project/course,Completed one project/course,Some experience,,Some experience,,Some experience,Some experience,,,,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,,,,,,4,3,3,2,5,3,,4,,2,5,,true,false,,59d3fc77387840435cf9c6f6
+85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,,,,Gaming,,,Back-end Engineer,,Designer,,,,,No experience,,,,No experience,Some experience,,,,,,,,,,Completed one project/course,,,,,,3,4,3,3,3,5,2,4,3,5,5,4,false,false,,59d404b4387840435cf9c6f7
+86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,Finance,,,Travel,Entertainment,Music,,Social Issues,,Technology,Front-end Engineer,Back-end Engineer,,Designer,,,,Some experience,Some experience,,Some experience,Some experience,Some experience,Completed one project/course,,Completed one project/course,,,,Some experience,,Completed one project/course,Completed one project/course,Completed one project/course,,Some experience,Some experience,,,4,4,4,4,3,5,4,5,5,5,5,5,true,false,,59d43033387840435cf9c6fd
+87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed multiple projects/courses,Completed one project/course,Some experience,Some experience,Completed one project/course,Some experience,No experience,,,,,Some experience,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed one project/course,,Some experience,Some experience,,,3,,2,,4,5,3,2,5,3,2,,,true,true,59d44ac7e91f783e0cad19c9
+88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,Travel,,Music,,Social Issues,Gaming,,,Back-end Engineer,Data Scientist,,,Android,,,Some experience,Some experience,Completed one project/course,Some experience,Completed one project/course,Completed one project/course,No experience,Some experience,Some experience,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,Some experience,,,,5,4,4,3,3,5,5,5,4,5,5,5,true,false,,59d45f0ae91f783e0cad19ce
+89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,Economics,,,,Front-end Engineer,Back-end Engineer,Data Scientist,,iOS,,,,Completed one project/course,Some experience,Completed multiple projects/courses,Completed one project/course,Some experience,Completed multiple projects/courses,,,,,,Completed one project/course,Completed one project/course,,,Completed multiple projects/courses,,,Completed one project/course,Completed one project/course,,3,4,5,4,5,5,5,5,4,4,4,4,true,false,,59d4e6a2e91f783e0cad19d7
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Music,,,Gaming,,,Back-end Engineer,,,,,,,Some experience,,Completed one project/course,Some experience,,Completed multiple projects/courses,,,,,,Some experience,Some experience,Some experience,Completed one project/course,Completed one project/course,,,Some experience,,,3,2,3,2,4,5,,4,3,4,3,3,true,false,,59d53e39e91f783e0cad19e2
+91,,,,,,,,,,,,,,,,3,We Miss ,"We are uncertain, would rather talk to all of our teammates to pick a field and focus.","MEAN Stack, Python, Bootstrap, jQuery OR Swift",Front-end Engineer,Back-end Engineer,,Designer,iOS,,,"On a scale of CS Freshman to Senior Engineer at Google, we're entry level software developers at some modest tech company.",59e81a458dd4091849b47061,,,,,Fashion,,Arts,,,Health,,Entertainment,Music,,Social Issues,,Technology,Front-end Engineer,Back-end Engineer,,,iOS,,,,Completed multiple projects/courses,Some experience,,Completed one project/course,,Completed one project/course,,Some experience,Completed one project/course,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed one project/course,,Completed one project/course,Completed one project/course,Completed one project/course,,5,5,5,5,4,4,5,4,4,5,5,5,,true,true,59d5497ee91f783e0cad19e8
+92,,,,,,,,,,,,,,,,,SkedHub,Educational App,"Python, HTML, CSS, Javascript, and/or PHP",Front-end Engineer,Back-end Engineer,,,iOS,,,We have attended from 0-5 hackathons (range).,59cf0e9eca869411de5a7629,,,,,,,,,,,,,,,Social Issues,,Education,Front-end Engineer,Back-end Engineer,,Designer,,,,,Completed one project/course,,,,,Some experience,,,,,,Completed one project/course,Some experience,Completed multiple projects/courses,,Completed multiple projects/courses,,,,,,5,3,4,4,5,5,2,4,3,5,5,5,,true,true,59d55f33e91f783e0cad19ee
+93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,Entertainment,,,,Gaming,,Front-end Engineer,,,Designer,,,,Some experience,Some experience,Some experience,,Some experience,Some experience,Some experience,Some experience,,,,,Some experience,,,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Completed one project/course,,,,4,2,3,2,5,5,,5,4,4,4,3,true,false,,59d56cede91f783e0cad19f0
+94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,,,,Some experience,Some experience,Some experience,Some experience,,,Some experience,Some experience,,,,,,,,Some experience,Some experience,,,,,,3,3,3,3,4,3,,4,2,2,2,3,true,false,,59d5d25ae91f783e0cad1a0f
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,Travel,,,,Social Issues,,,,,,,,,,,,,,,Some experience,Some experience,,Some experience,Some experience,,,Some experience,Some experience,,,Some experience,,,Some experience,,,3,2,3,,4,2,,3,2,4,3,3,true,false,,59d67513e91f783e0cad1a21
+96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,Health,Travel,,,Economics,,Gaming,,Front-end Engineer,,,,,,,,Some experience,Some experience,,,,,,,,,,Some experience,Some experience,Some experience,,Some experience,,,,,,3,2,2,,4,3,,3,2,3,2,3,,true,false,59d67bd4e91f783e0cad1a22
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,Finance,Politics,,,,,Economics,,Gaming,,,,Data Scientist,,,,,,,,Some experience,,,,Some experience,Completed one project/course,Some experience,,,,,,Some experience,,,,,,,5,4,5,5,5,4,2,4,5,5,5,5,true,false,,59d681bbe91f783e0cad1a25
+98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,,,,,,,,,,,,,Some experience,Completed one project/course,Completed one project/course,Some experience,,,Completed one project/course,,,4,4,4,4,5,4,,5,4,4,4,4,,true,false,59d6894ce91f783e0cad1a27
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,Health,,,,,,,Mainly Health,,,Data Scientist,,,,,No experience,No experience,No experience,Completed multiple projects/courses,Some experience,,Some experience,,,,,,,,Completed one project/course,,Completed multiple projects/courses,,,Some experience,,,5,4,5,5,4,5,4,5,4,5,4,4,true,false,,59d6e22ce91f783e0cad1a3a
+100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,Travel,Entertainment,,Economics,,Gaming,,Front-end Engineer,Back-end Engineer,,,,,Electrical and Firmware,Some experience,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,No experience,,Completed one project/course,,C++ and C,5,4,3,4,5,4,4,5,3,5,4,4,true,false,,59d70e66e91f783e0cad1a48
+101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,Finance,,Health,Travel,Entertainment,,Economics,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,Android,,Some experience,Some experience,Some experience,Some experience,,Some experience,Some experience,,,,,,Some experience,Some experience,Completed multiple projects/courses,,Completed one project/course,,,,,,5,4,4,4,5,4,2,3,4,3,5,4,true,false,,59d71b8ce91f783e0cad1a4e
+102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,,59d7c68ee91f783e0cad1a5b
+103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,No experience,Completed one project/course,Completed one project/course,,Some experience,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,,Some experience,,,5,4,4,3,4,4,,4,4,4,3,4,,,,59d7d4cee91f783e0cad1a5f
+104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,Politics,Health,Travel,Entertainment,,Economics,,,,,,Data Scientist,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,Completed one project/course,,Completed one project/course,Completed one project/course,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Some experience,,Completed multiple projects/courses,,,4,3,4,4,3,4,2,5,4,5,5,5,,true,false,59d7f427e91f783e0cad1a63
+105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,,,,,,,,,,,Completed multiple projects/courses,Some experience,Completed one project/course,,Some experience,Some experience,,Completed one project/course,,,2,2,2,4,4,4,1,3,3,3,3,3,,true,true,59d816d9e91f783e0cad1a67
+106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Completed one project/course,,,Some experience,,,Some experience,No experience,,,Some experience,Some experience,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,,Completed one project/course,,,2,2,2,2,5,4,,3,5,4,5,3,,,,59d8186ee91f783e0cad1a68
+107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,Travel,Entertainment,,Economics,Social Issues,,,Front-end Engineer,,Data Scientist,Designer,,Android,,Some experience,Some experience,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Some experience,Some experience,Some experience,,Some experience,,Some experience,Completed one project/course,Some experience,Completed one project/course,Some experience,,Some experience,Some experience,,5,4,4,4,5,5,5,5,5,4,3,3,true,false,,59d83cdae91f783e0cad1a6e
+108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No experience,No experience,,,,Some experience,,,,,,,,,,Some experience,Some experience,,,,,4,3,5,4,4,5,3,4,4,4,4,4,,,,59d848b4e91f783e0cad1a70
+109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,,,,,,,Designer,,,,,No experience,No experience,,Completed one project/course,No experience,,,,,,,,,,,,,,,,,4,5,4,5,5,5,4,5,,5,3,2,true,false,,59d94f8a8ac2a56ad2aaeec7
+110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,,Travel,Entertainment,Music,,,,,Front-end Engineer,,,Designer,,,,,,,,,,Completed one project/course,,,,,,,,Completed one project/course,,Completed one project/course,,,,,,5,3,3,5,5,5,3,5,4,4,5,5,true,false,,59da61408ac2a56ad2aaeed6
+111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,,,,,Front-end Engineer,Back-end Engineer,,,,,,,,,Some experience,Some experience,,Some experience,,,,,,,,,Completed one project/course,,,,Completed one project/course,,,4,3,2,3,2,5,3,2,2,3,3,3,true,false,,59da68b68ac2a56ad2aaeed9
+112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,Travel,Entertainment,Music,,Social Issues,Gaming,,,Back-end Engineer,,,iOS,Android,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,Completed multiple projects/courses,,,Some experience,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,,Completed multiple projects/courses,Some experience,,3,3,3,3,5,5,5,5,5,4,3,4,,true,true,59da9d688ac2a56ad2aaeee3
+113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,Entertainment,Music,,,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59dad29f8ac2a56ad2aaeeee
+114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,Arts,,,,,,Music,,,,,Front-end Engineer,Back-end Engineer,,Designer,iOS,,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,Some experience,,Some experience,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Some experience,,Some experience,Completed multiple projects/courses,Ats....,5,5,4,3,5,4,4,5,5,5,5,5,true,false,,59dadb9d8ac2a56ad2aaeeef
+115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,false,59dae3608ac2a56ad2aaeef1
+116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No experience,No experience,,,,,,,,,,,,,,,,,,,,5,3,2,3,4,4,3,5,2,4,4,3,,,,59db7f0c8ac2a56ad2aaeef9
+117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Some experience,Some experience,Some experience,Some experience,Completed multiple projects/courses,,Some experience,Some experience,,,Completed multiple projects/courses,,Completed one project/course,Some experience,Completed multiple projects/courses,,,Completed multiple projects/courses,,,5,4,4,4,5,5,5,5,4,5,3,5,,,,59dba0ec8ac2a56ad2aaef00
+118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,Entertainment,,,Social Issues,Gaming,,,Back-end Engineer,,,iOS,Android,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,,Completed one project/course,Some experience,Some experience,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,,,Completed multiple projects/courses,Some experience,,,4,3,4,4,5,5,5,5,5,5,5,4,true,false,,59dbb7b28ac2a56ad2aaef06
+119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,Health,Travel,,,,,,,,Back-end Engineer,,,,,,,Some experience,,,,,Completed one project/course,,,,,,Some experience,,Completed multiple projects/courses,Completed one project/course,,,,,,,5,4,5,3,5,5,3,5,3,5,3,5,true,false,,59dbb82a8ac2a56ad2aaef07
+120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No experience,,Some experience,,,,,,Some experience,,,,,,Completed multiple projects/courses,,,,,,,,3,3,3,4,5,5,2,5,5,5,5,1,,,,59dbcd728ac2a56ad2aaef08
+121,,,,,,,,,,,,,,,,2,Codenza,Not Yet Decided,Anything that be used at that moment,Front-end Engineer,Back-end Engineer,,,,,Web Dev,Good,"59da9d688ac2a56ad2aaeee3, 59cf1ea4ca869411de5a763e",,,,,,,,,,Health,,,,,,,"Security, App Development, Web Based Platforms",Front-end Engineer,Back-end Engineer,,Designer,,Android,Security,,Completed multiple projects/courses,Completed one project/course,,,Completed one project/course,Some experience,,Completed one project/course,Some experience,,,Completed multiple projects/courses,Some experience,Some experience,Some experience,Some experience,,Some experience,Completed one project/course,,Java,4,4,4,3,5,4,5,5,4,3,4,4,,true,true,59dbdbc48ac2a56ad2aaef0a
+122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,false,59dbed708ac2a56ad2aaef0f
+123,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Social Issues,Gaming,,,,Data Scientist,,,,,,,,,No experience,,,,Some experience,,,,,,,Completed one project/course,,,,,,,5,2,5,5,5,3,,5,,,,,,true,false,59dcec5e3b62e811697f4b3c
+124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,,Music,,Social Issues,,,Front-end Engineer,,,Designer,,,,,Some experience,,,,,,,,,,,,,,Completed one project/course,,,,,,MATLAB lol,5,5,5,4,4,5,,2,3,5,5,5,,true,false,59dcf5883b62e811697f4b3f
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,,,,Economics,,,,Front-end Engineer,,,,,,,,Completed one project/course,,No experience,Some experience,Some experience,Some experience,,,,,,Completed multiple projects/courses,Completed one project/course,Completed one project/course,,Completed multiple projects/courses,Completed one project/course,,Completed one project/course,,,5,3,4,3,5,5,5,5,5,5,5,5,true,false,,59dd32e63b62e811697f4b44
+126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Some experience,,,Completed one project/course,Completed one project/course,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,No experience,,,Completed one project/course,,,3,3,2,3,4,5,4,5,5,5,5,2,,,,59dd6fce3b62e811697f4b4a
+127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,Travel,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,,Completed one project/course,Some experience,,Some experience,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,,Some experience,,,4,2,3,3,3,4,5,5,3,4,,4,true,false,,59dd92123b62e811697f4b53
+128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,,Travel,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,Some experience,Completed one project/course,,,,,Some experience,,,,,,Some experience,Completed one project/course,Completed one project/course,,,,,No experience,,"YQL, node js",3,3,,2,4,3,1,5,5,2,4,1,true,false,,59ddb9293b62e811697f4b5d
+129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Politics,,,,,,,Gaming,quantum computing and artificial intelegence  ,Front-end Engineer,Back-end Engineer,,,,,,Some experience,,,No experience,Some experience,,Some experience,,Some experience,,,,,,Completed one project/course,,Completed one project/course,,,,,,3,4,3,4,3,5,3,4,5,3,5,4,true,false,,59de2f233b62e811697f4b66
+130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed multiple projects/courses,Some experience,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Some experience,Completed one project/course,Some experience,,,Some experience,No experience,Completed one project/course,Completed multiple projects/courses,Some experience,,No experience,,,,5,4,5,4,4,5,3,5,3,5,4,5,,,,59de542d3b62e811697f4b6e
+131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,Entertainment,,,Social Issues,,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,No experience,,,,,,,,,,,,Some experience,,Some experience,,Completed one project/course,,Some experience,,,,4,2,3,3,5,5,,5,4,4,3,3,true,false,,59de57dd3b62e811697f4b70
+132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed multiple projects/courses,No experience,,Some experience,,,,Some experience,,Some experience,,Completed one project/course,,,Some experience,,,4,3,4,3,3,5,3,4,4,5,4,4,,,,59de74653b62e811697f4b75
+133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,,,,,Travel,,Music,,,,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,,,,,,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,,,,,,,4,3,3,2,5,3,,3,3,3,4,3,true,false,,59de955e3b62e811697f4b7e
+134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,Health,Travel,Entertainment,Music,,,,,,Back-end Engineer,,,,,,,Completed multiple projects/courses,Some experience,Some experience,,,Some experience,,Some experience,Some experience,,,Completed multiple projects/courses,Some experience,Some experience,,Completed multiple projects/courses,,,Some experience,,,4,4,3,2,5,5,3,4,4,5,4,3,true,false,,59de9e6a3b62e811697f4b80
+135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Some experience,Some experience,Some experience,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,,,Some experience,Some experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed one project/course,,,5,5,5,5,5,5,5,5,5,5,5,5,,,,59deb7ac3b62e811697f4b83
+136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Social Issues,,,,Back-end Engineer,Data Scientist,,,,,,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,,,,,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,Some experience,,,5,3,4,5,4,4,4,4,4,5,5,5,true,false,,59dee0703b62e811697f4b8c
+137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,false,false,59df700e3b62e811697f4b91
+138,,,,,,,,,,,,,,,,2,Instinct,Web application ,"Python, JavaScript, SQL",Front-end Engineer,Back-end Engineer,,,,,0,1 year,59dd6fce3b62e811697f4b4a,,,,,,,,Finance,,,Travel,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,,,Android,,,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Some experience,,,Some experience,,Some experience,Some experience,Some experience,Completed one project/course,Completed one project/course,Some experience,,Some experience,Completed one project/course,Some experience,,4,3,4,3,5,5,5,5,5,5,5,5,,true,true,59dff0d93b62e811697f4ba0
+139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,,,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,No experience,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,,,,,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,Completed one project/course,,,4,4,4,5,4,4,5,4,5,5,4,4,true,false,,59e0cf6f3b62e811697f4bad
+140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,Arts,,,Health,Travel,Entertainment,Music,,Social Issues,Gaming,,,,,Designer,,Android,,,Some experience,Some experience,,,,,,Completed multiple projects/courses,Some experience,,,Some experience,Completed one project/course,Completed one project/course,,Some experience,,,,,,3,4,2,4,5,5,,3,3,4,3,2,,true,false,59e0fe533b62e811697f4bb4
+141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,Entertainment,,Economics,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,iOS,Android,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed one project/course,,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,4,4,4,4,4,4,4,4,3,4,3,5,true,false,,59e130be3b62e811697f4bb9
+142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,iOS,Android,,,,,,,,,,Completed one project/course,,,,Some experience,,,Some experience,,,,,,,5,3,4,4,5,4,4,5,4,5,5,4,true,false,,59e1aced3b62e811697f4bc4
+143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,iOS,,,Some experience,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,Some experience,Completed one project/course,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Some experience,Some experience,Completed one project/course,Completed multiple projects/courses,,5,5,5,5,5,5,5,5,5,5,5,5,true,false,,59e27cdf3b62e811697f4bd5
+144,The Dawghaus,"Create an app that allows a user to choose a place to eat nearby and our app should display the restaurant's info (menu, yelp page, closing time, etc).",,Front-end Engineer,Back-end Engineer,,Android,Android Studio/XML or Flutter/Dart,,,Travel,,Economics,,Completed one project/course,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,,,,Social Issues,Gaming,,Front-end Engineer,,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,,,Some experience,Completed one project/course,No experience,,,,Completed one project/course,,Completed multiple projects/courses,Completed one project/course,,,Some experience,Some experience,,,4,3,4,5,3,4,3,2,3,4,5,3,false,false,true,59e29e7c3b62e811697f4be2
+145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,Politics,,Travel,Entertainment,Music,Economics,Social Issues,,Media,,,,,,,I have very limited experience.,,No experience,,,,,,,,,,,Some experience,,,,,,,,,,4,2,4,5,5,5,3,5,4,4,4,4,true,false,,59e2ec393b62e811697f4bec
+146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,,,,,,,Front-end Engineer,Back-end Engineer,,,,,,,Some experience,,,,,,,,,,,Some experience,Some experience,Some experience,,Completed one project/course,,,Some experience,,,,,,,2,4,,2,4,4,3,3,true,false,,59e2f37d3b62e811697f4bee
+147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,,,,No experience,Some experience,Some experience,,,,,,,3,3,3,3,5,5,3,4,,,,,,,,59e388333b62e811697f4bf5
+148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,Travel,Entertainment,Music,,,,,,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,,Completed multiple projects/courses,Some experience,,Some experience,,,,,,Some experience,,,,Some experience,,Some experience,Completed multiple projects/courses,,,5,3,4,2,5,5,5,5,4,5,4,3,true,false,,59e3b03f3b62e811697f4bf8
+149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Some experience,,,,,,2,3,2,2,2,5,,3,,,,,false,false,,59e3cf013b62e811697f4c00
+150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,Arts,,,Health,Travel,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,,,Completed multiple projects/courses,,Some experience,Some experience,Completed one project/course,Completed multiple projects/courses,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,Completed one project/course,,C,5,4,4,3,5,5,3,5,5,5,5,5,false,false,,59e3f15e3b62e811697f4c05
+151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,,,,,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59e3f30a3b62e811697f4c06
+152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,Travel,Entertainment,,Economics,Social Issues,,,,Back-end Engineer,Data Scientist,,,Android,,,No experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Some experience,Completed one project/course,Completed one project/course,,Some experience,Some experience,Some experience,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,Completed one project/course,,,5,4,5,5,5,5,5,5,4,5,5,5,true,false,,59e449623b62e811697f4c12
+153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,Entertainment,Music,Economics,,,,,Back-end Engineer,,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,,,,,,Some experience,Completed multiple projects/courses,Some experience,Some experience,Completed multiple projects/courses,,,Completed one project/course,Some experience,,5,4,5,5,5,,5,3,5,5,5,5,true,false,,59e4587d3b62e811697f4c13
+154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,Travel,,,,,,,Front-end Engineer,Back-end Engineer,,,,,AI/ ML,,Completed multiple projects/courses,Some experience,Some experience,Completed one project/course,Some experience,Completed multiple projects/courses,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed one project/course,,,Completed one project/course,,,5,4,3,4,5,5,5,5,5,4,5,4,true,false,,59e4cb233b62e811697f4c19
+155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,business analytics,,,,,,,no idea,,,,,,,,,,,,,,,Some experience,,Completed one project/course,,,Completed one project/course,,,3,2,3,3,5,5,,,,3,3,3,false,false,,59e4ddce3b62e811697f4c1b
+156,,,,,,,,,,,,,,,,,,,,,,,,,,,,"59e5886638e5c61e5eda8954, 59e508ac3b62e811697f4c25",,,,,,Sports,,Finance,,Health,Travel,Entertainment,Music,,Social Issues,,,Front-end Engineer,Back-end Engineer,,,,Android,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,,Some experience,Completed multiple projects/courses,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,,Some experience,Completed one project/course,Some experience,,2,5,2,5,1,3,5,5,5,4,5,4,,true,true,59e4f59e3b62e811697f4c1f
+157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaming,,,Back-end Engineer,,,,Android,,Some experience,,Some experience,,Some experience,,Completed one project/course,,,,,,,Some experience,Completed multiple projects/courses,Some experience,Completed one project/course,,No experience,Some experience,,,3,3,3,3,5,5,5,5,5,4,5,4,true,false,,59e53f593b62e811697f4c31
+158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,Some experience,,,Completed multiple projects/courses,,,,,,,,Some experience,Completed one project/course,Some experience,,,,Some experience,,3,4,3,2,3,3,2,3,3,4,4,3,,,,59e54cd03b62e811697f4c35
+159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,Health,,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,,,,Some experience,Completed multiple projects/courses,,Completed one project/course,Some experience,Completed one project/course,Completed one project/course,,Completed one project/course,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,,,5,5,4,5,4,5,4,5,4,5,5,4,true,true,true,59e589c138e5c61e5eda8956
+160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,Entertainment,,Economics,,,"Recruiting, B2B services",,,,Designer,,,Business + Presentation,,Some experience,,,,,,,,,,,Completed multiple projects/courses,Some experience,,,,,,,,,5,5,5,4,5,3,5,5,2,5,5,5,true,false,,59e5983f065b993ff9e1188a
+161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,Gaming,,,Back-end Engineer,Data Scientist,,,,,Some experience,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed multiple projects/courses,No experience,Completed one project/course,Completed one project/course,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,Completed one project/course,Completed multiple projects/courses,,,5,2,4,5,5,5,5,5,5,5,4,5,true,false,,59e5a736065b993ff9e1188c
+162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,,,,,Social Issues,,Education for displaced learners and refugees ,,,,Designer,,,"Communication, Web Design, Educational Consultant ",Some experience,Completed one project/course,,,,,,Some experience,Some experience,Some experience,,,No experience,,,,,,,,,,5,3,5,5,5,5,,5,3,5,5,4,true,false,,59e64dc4065b993ff9e11899
+163,,,,,,,,,,,,,,,,,Daypop,Event discovery that adapts with dynamic lifestyles and fosters inclusive communities,"Python, Javascript, Node, React.js, Elixir-Phoenix, PostgreSQL, Redis, HTML, CSS",Front-end Engineer,Back-end Engineer,,Designer,,,,Moderate - we've built prototype web apps before,59e65d3c065b993ff9e1189b,,,,,,,Arts,,,,Travel,Entertainment,Music,Economics,,Gaming,Technology,Front-end Engineer,,,Designer,,,Lead,,Some experience,Some experience,Some experience,,Some experience,Some experience,,Completed multiple projects/courses,,,,Completed multiple projects/courses,Completed one project/course,,Completed one project/course,Some experience,,Some experience,Some experience,Some experience,,4,3,4,3,5,4,3,4,4,4,4,4,,true,false,59e6508e065b993ff9e1189a
+164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,Completed one project/course,,,Some experience,Some experience,Some experience,,Completed multiple projects/courses,Completed one project/course,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,Completed one project/course,,,3,1,3,3,5,2,,4,4,2,1,,,,,59e65d3c065b993ff9e1189b
+165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,,,Economics,Social Issues,,,Front-end Engineer,Back-end Engineer,,Designer,,,,,Completed multiple projects/courses,,,Completed one project/course,,Completed one project/course,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Some experience,Completed multiple projects/courses,,,,,,5,5,5,5,5,5,2,5,4,5,5,5,true,false,,59e661ad065b993ff9e1189e
+166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,Entertainment,,,,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,,,Some experience,,Some experience,,,Some experience,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,Completed one project/course,,,Some experience,,,4,4,3,4,5,5,4,5,5,5,5,5,true,false,,59e664b6065b993ff9e1189f
+167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,Social Issues,Gaming,,,Back-end Engineer,,,,,,No experience,Completed one project/course,Some experience,,,Completed multiple projects/courses,Completed one project/course,Some experience,Completed one project/course,Some experience,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,No experience,Completed multiple projects/courses,Some experience,,,4,3,4,4,5,4,3,4,3,4,4,3,true,false,,59e66bbc065b993ff9e118a0
+168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Travel,Entertainment,Music,,Social Issues,,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,Some experience,,,Some experience,,,,,,,Completed multiple projects/courses,Some experience,,,Some experience,Completed one project/course,,,,,4,2,4,,5,5,2,4,3,3,,4,true,false,,59e66db7065b993ff9e118a1
+169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Completed one project/course,Some experience,,,,Some experience,,,,,,Completed multiple projects/courses,Some experience,Completed one project/course,,Some experience,,,Some experience,Some experience,,4,2,3,4,4,5,,5,3,4,4,4,,,,59e66e49065b993ff9e118a2
+170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,Travel,,Music,,,Gaming,,,,,,,,i have very little experience help,Some experience,,,,Some experience,Some experience,Some experience,,,,,,Some experience,,Completed one project/course,,,,,,,,4,3,4,4,5,5,,5,1,4,4,4,true,false,,59e67834065b993ff9e118a5
+171,,,,,,,,,,,,,,,,1,Huskies,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,,,,Back-end Engineer,,,iOS,,,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Some experience,Some experience,Completed one project/course,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,No experience,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,,4,4,5,5,5,4,5,5,4,5,5,5,,true,true,59e6a02a065b993ff9e118b3
+172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,,,,,Data Scientist,,,,,,,,Completed one project/course,Some experience,,Some experience,,,,,Some experience,,,,Completed one project/course,Completed one project/course,,,Some experience,,,3,2,2,3,5,5,2,5,5,5,3,3,true,false,,59e6c147065b993ff9e118bc
+173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,Finance,Politics,Health,Travel,Entertainment,Music,,Social Issues,,,,,,,,,Unsure,,,,,,,,,,,,,,,Completed one project/course,,,,,,,,3,2,4,3,2,5,,4,3,3,3,2,false,false,,59e6cb2b065b993ff9e118c0
+174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,,Gaming,Science,,,,Designer,,,,Some experience,Some experience,,,,,,Some experience,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,Completed one project/course,,,,,,4,3,4,2,5,5,5,5,4,5,4,3,false,false,,59e7616e065b993ff9e118ca
+175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Music,Economics,,,,Front-end Engineer,Back-end Engineer,,Designer,,Android,,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Some experience,,,Some experience,Some experience,Completed multiple projects/courses,Some experience,Some experience,,Completed multiple projects/courses,Some experience,,,4,4,4,4,5,5,4,3,4,5,4,4,,true,false,59e7618f065b993ff9e118cb
+176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,Finance,,,Travel,,,Economics,Social Issues,,,,Back-end Engineer,Data Scientist,Designer,,,,,Some experience,,Some experience,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Some experience,Completed one project/course,Some experience,,Completed multiple projects/courses,,,4,4,5,3,5,5,5,3,4,5,5,3,true,false,,59e790c9065b993ff9e118d1
+177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,Health,,,Music,,,,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed one project/course,,,Some experience,,Some experience,,Some experience,,,,Completed multiple projects/courses,Completed one project/course,Completed one project/course,,Completed multiple projects/courses,,,,,,3,2,3,2,5,5,5,5,4,5,4,5,true,false,,59e79957065b993ff9e118d2
+178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,Health,Travel,Entertainment,,,Social Issues,,,,,,Designer,,,,,Completed one project/course,Completed one project/course,Some experience,,,,,,,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,,,,,Completed one project/course,,,5,5,4,4,4,5,4,5,4,5,5,4,true,false,,59e7e386065b993ff9e118dc
+179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,,,Some experience,Some experience,Some experience,Some experience,,,,Some experience,,Some experience,Completed one project/course,,,,Completed one project/course,,,5,3,5,3,4,5,3,5,4,5,5,5,,,,59e7f955065b993ff9e118e1
+180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,Social Issues,,Neurosciencce ,,,Data Scientist,,,,,Some experience,Completed one project/course,Some experience,Some experience,Some experience,Completed multiple projects/courses,Some experience,Some experience,Completed multiple projects/courses,Some experience,,,Completed one project/course,Completed one project/course,Some experience,Some experience,Completed one project/course,,,Some experience,,,5,2,5,5,5,5,5,5,5,5,5,5,,true,true,59e80291065b993ff9e118e4
+181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,,,Politics,Health,Travel,Entertainment,Music,,,,,,,Data Scientist,,,Android,,Some experience,Some experience,Completed one project/course,Completed one project/course,Some experience,Some experience,Completed one project/course,Completed one project/course,Some experience,Some experience,,Completed one project/course,Some experience,Some experience,Completed one project/course,,Completed multiple projects/courses,No experience,,Completed one project/course,,,5,3,5,5,5,4,3,2,2,5,4,3,true,false,,59e8390a8dd4091849b47067
+182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No experience,,,,Some experience,,,,,,,,,,,,,,,,,,,,,59e8af9e8dd4091849b4706f
+183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,Entertainment,,,,Gaming,,,Back-end Engineer,,,,,,,Some experience,Some experience,Completed one project/course,Completed one project/course,Some experience,Completed multiple projects/courses,,Some experience,,,,,,,Completed multiple projects/courses,Completed multiple projects/courses,,,,,,5,4,4,4,4,3,5,2,4,5,4,4,,true,false,59e8b4b78dd4091849b47070
+184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,,Entertainment,Music,,,Gaming,,,Back-end Engineer,,,,,,Some experience,Some experience,Some experience,,,,Completed one project/course,,Some experience,Some experience,,,Some experience,Some experience,Completed one project/course,,Completed multiple projects/courses,,,,Some experience,,5,3,4,4,5,3,3,4,3,5,4,3,true,false,,59e8b7e18dd4091849b47073
+185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,,Some experience,,,,,,3,3,3,2,5,5,,4,,4,3,2,,,,59e8e4198dd4091849b47078
+186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,Completed one project/course,Some experience,Some experience,,Some experience,Completed one project/course,Completed one project/course,Some experience,Some experience,,,Completed one project/course,Completed one project/course,,Completed multiple projects/courses,Some experience,,Completed one project/course,,,,3,2,4,5,4,4,,5,2,5,4,4,true,false,,59e8f5448dd4091849b47079
+187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,Finance,Politics,Health,Travel,Entertainment,Music,Economics,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,Data Scientist,Designer,,,,,Some experience,,Some experience,No experience,,No experience,,,,Work with API,,Some experience,,Some experience,,Completed one project/course,,,,,,4,4,3,4,5,5,2,5,4,5,5,3,true,false,,59e8f6298dd4091849b4707a
+188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,Finance,,Health,,,,Economics,,,,Front-end Engineer,Back-end Engineer,,,,,,,Some experience,,,,,,Some experience,,,,,Some experience,,Completed one project/course,,Some experience,,,Some experience,,,5,3,2,3,,5,,5,4,5,4,3,true,false,,59e917828dd4091849b4707f
+189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,,Social Issues,,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,,Completed multiple projects/courses,Completed one project/course,No experience,,,Some experience,,Some experience,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,,,,,,Some experience,,5,5,4,5,4,5,3,5,5,5,3,3,true,false,,59e92b258dd4091849b47081
+190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,Gaming,Technologies,Front-end Engineer,Back-end Engineer,,,iOS,,,,,,,,,,,,,,,,,,Some experience,Some experience,,,,,Pascal,4,3,3,2,4,5,5,5,4,4,4,4,true,false,,59e930528dd4091849b47082
+191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,Economics,Social Issues,Gaming,,,Back-end Engineer,,,,,,Some experience,,,,,,Completed one project/course,,Some experience,Some experience,,,,,Completed one project/course,,,,,,,,4,3,5,4,4,5,2,3,4,3,3,3,true,false,,59e949ff8dd4091849b47085
+192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,Social Issues,,,,,,,,,,,,,Some experience,Completed multiple projects/courses,Some experience,Some experience,,Completed multiple projects/courses,Completed one project/course,,Some experience,No experience,,Some experience,Completed one project/course,Completed multiple projects/courses,,,,Some experience,,4,3,4,2,5,4,3,5,4,5,4,5,true,false,,59e9537b8dd4091849b47088
+193,BU,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,Fashion,,,Finance,,Health,,,,Economics,,,,Front-end Engineer,Back-end Engineer,,,,,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,Completed multiple projects/courses,Some experience,,Some experience,Completed multiple projects/courses,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Some experience,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,,4,4,4,4,5,5,3,4,3,4,4,4,false,false,true,59e9554c8dd4091849b47089
+194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,true,59ea1a3e8dd4091849b47094
+195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,Travel,,,,Social Issues,,,Front-end Engineer,,Data Scientist,Designer,iOS,,,,Completed multiple projects/courses,,Completed multiple projects/courses,Some experience,Some experience,,No experience,,,,,Some experience,,Completed one project/course,,Completed one project/course,,,Completed multiple projects/courses,,,3,3,4,4,5,2,,5,2,2,3,4,true,false,,59ea33c28dd4091849b4709b
+196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,,Entertainment,,,,Gaming,,,,Data Scientist,,,,,,,,Some experience,,Some experience,Some experience,Some experience,Some experience,,,,,Completed one project/course,,Some experience,,,Some experience,,,,4,3,3,3,5,4,2,4,4,4,4,3,true,false,,59eafb8d8dd4091849b470ac
+197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,Economics,,Gaming,,Front-end Engineer,Back-end Engineer,,,,Android,,Some experience,Completed multiple projects/courses,Completed one project/course,,,Some experience,Completed one project/course,No experience,Completed one project/course,Some experience,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,,,5,4,4,4,5,5,3,5,3,4,4,4,true,false,,59ebc06d8dd4091849b470b2
+198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,Health,,,,Economics,Social Issues,Gaming,,,,,,,,I have no experience with this whatsoever.,,,,,,,,,Some experience,,,,,,Some experience,,Completed one project/course,,,,,,4,2,,3,4,5,2,3,3,3,3,2,true,false,,59ebc3d98dd4091849b470b3
+199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No experience,,No experience,No experience,,,,,,,,,,,,Completed one project/course,,,,,,4,4,3,4,5,5,3,5,3,4,3,3,,,,59ebdb9e8dd4091849b470b9
+200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Completed one project/course,,Completed multiple projects/courses,,,,,,4,3,5,3,4,5,,,4,3,3,2,false,false,,59ebec518dd4091849b470bb
+201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,,,,Economics,,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,,,,,,,,,,,,Some experience,Some experience,Some experience,Some experience,Some experience,,,Some experience,,,4,3,3,3,3,3,3,4,4,4,4,4,,true,false,59ec24e6678f9e39fd109d7a
+202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,,,,Health,Travel,Entertainment,Music,,,,,,Back-end Engineer,,,,Android,,,Some experience,Completed one project/course,,,Some experience,Some experience,,Some experience,Completed one project/course,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,Some experience,,,,Completed one project/course,,,3,3,3,3,3,4,3,4,4,4,4,4,,true,false,59eccec3678f9e39fd109d85
+203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,Travel,Entertainment,,,Social Issues,,,,Back-end Engineer,,Designer,,,,,Completed multiple projects/courses,Some experience,,Some experience,Some experience,Completed one project/course,No experience,,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,,Completed multiple projects/courses,,,4,4,4,4,3,4,2,4,5,4,3,4,true,true,false,59eccfcf678f9e39fd109d86
+204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,,,,,,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,,,,,,Some experience,,,,,,,,,,,Some experience,Some experience,,Some experience,Some experience,,,,,,3,,4,3,4,5,4,5,5,4,4,4,true,false,,59ed06f0678f9e39fd109d8e
+205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,Health,Travel,,,,Social Issues,,,Front-end Engineer,Back-end Engineer,Data Scientist,,,Android,,Some experience,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Some experience,Completed multiple projects/courses,,,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,No experience,Completed multiple projects/courses,Completed one project/course,,,4,2,4,3,4,5,5,5,5,5,4,5,true,false,,59ed1a12678f9e39fd109d92
+206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Social Issues,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,,59ed329d678f9e39fd109d96
+207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,Music,,Social Issues,Gaming,,Front-end Engineer,,,Designer,,,,Completed multiple projects/courses,Some experience,Some experience,Some experience,,Some experience,,Completed multiple projects/courses,Completed one project/course,Completed one project/course,,,Some experience,Some experience,Some experience,Some experience,,,Completed one project/course,Some experience,,,3,4,3,3,4,5,5,4,5,5,4,5,true,false,,59ed600a678f9e39fd109d9a
+208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,Travel,Entertainment,,,Social Issues,Gaming,AI,,Back-end Engineer,,,,,,Completed one project/course,Some experience,Some experience,,,,,,Some experience,Some experience,,,Completed multiple projects/courses,Some experience,,Some experience,Completed one project/course,No experience,,Completed multiple projects/courses,Completed one project/course,C,3,4,3,4,5,4,3,5,3,5,4,5,true,false,,59ed6335678f9e39fd109d9e
+209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,,,,,Music,,,,,Front-end Engineer,,,,,,,No experience,Completed multiple projects/courses,Completed one project/course,,,,,,Completed multiple projects/courses,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,Completed multiple projects/courses,,,Completed one project/course,Completed one project/course,,5,4,4,4,5,5,4,5,3,5,4,4,,true,false,59ed828a678f9e39fd109da0
+210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,Travel,,,Economics,,,,,Back-end Engineer,,,,,,,Completed multiple projects/courses,Some experience,Some experience,Some experience,,Some experience,,,,,,Completed one project/course,Completed one project/course,Some experience,Some experience,Completed multiple projects/courses,,,Completed one project/course,,,5,4,4,4,4,5,4,5,5,5,4,5,true,false,,59ed8a92678f9e39fd109da2
+211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,Politics,,,Entertainment,Music,,,Gaming,,Front-end Engineer,,,Designer,iOS,Android,,Some experience,,Some experience,,,,Some experience,,Some experience,,,,,,Completed multiple projects/courses,Some experience,Completed one project/course,Some experience,Some experience,,,,4,3,3,2,3,4,3,2,3,3,3,3,,false,,59ee3ada678f9e39fd109daf
+212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Some experience,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,,Completed multiple projects/courses,Completed one project/course,,,Completed one project/course,Completed one project/course,Completed one project/course,Some experience,Completed one project/course,No experience,,,Some experience,,5,5,5,5,5,5,5,5,5,5,5,5,,true,false,59ee3cd8678f9e39fd109db0
+213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,,,Travel,Entertainment,Music,,Social Issues,,,,,,,,,,Some experience,,,,,,Some experience,,Some experience,,,,,,,Some experience,No experience,,No experience,,,,4,3,4,4,4,5,,3,4,4,4,3,false,false,,59ee4692678f9e39fd109db4
+214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Health,,,,,,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,iOS,Android,,,Completed one project/course,Completed one project/course,,,,,,Some experience,,,,Completed one project/course,Completed one project/course,Completed multiple projects/courses,,Completed one project/course,,,,Some experience,,5,4,4,5,5,5,5,5,4,5,4,5,,true,true,59ee5356678f9e39fd109db6
+215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,Finance,,,,Entertainment,Music,,,Gaming,,Front-end Engineer,,Data Scientist,Designer,,Android,,Some experience,Completed one project/course,Completed one project/course,Some experience,Some experience,,Some experience,,,Some experience,,,Completed multiple projects/courses,Some experience,Some experience,Some experience,Completed one project/course,,,Completed multiple projects/courses,,,4,3,3,,4,4,5,5,4,4,,,,false,,59ee5c1e678f9e39fd109db8
+216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Music,,Social Issues,Gaming,,,Back-end Engineer,Data Scientist,,,,,Some experience,Some experience,,Some experience,,,Completed multiple projects/courses,,,Some experience,,,Completed one project/course,Some experience,Completed one project/course,Completed multiple projects/courses,Some experience,,Some experience,Some experience,,,4,3,4,3,4,2,,4,3,5,4,2,true,false,,59eeab5d678f9e39fd109dc4
+217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Some experience,,,,,Some experience,Some experience,,,,,Some experience,Completed multiple projects/courses,,Completed one project/course,,,,,,5,4,5,3,5,5,5,5,3,5,5,5,,,,59eeb724678f9e39fd109dc7
+218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some experience,,Some experience,,,,,,2,,,,,,,,,,,,,,,59eebe89678f9e39fd109dcb
+219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Completed one project/course,Completed one project/course,,,,Some experience,,Some experience,,,,Some experience,Completed multiple projects/courses,Completed one project/course,No experience,Completed multiple projects/courses,,,,Completed one project/course,,4,,2,3,5,4,2,3,4,3,2,2,,,,59eec4f6678f9e39fd109dcc
+220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,,,,Entertainment,,,,,,Front-end Engineer,,,,,,,,Completed one project/course,Some experience,,,,,,,,,,Completed one project/course,Some experience,Completed one project/course,,,,,,,,5,3,5,5,5,5,5,5,4,5,5,4,true,false,,59eecb95678f9e39fd109dcf
+221,,,,,,,,,,,,,,,,,Ninja Coders,Data Visua,"Java, JavaScript, HTML/CSS",Front-end Engineer,,,Designer,,,,Quite Experienced,"59ef928f678f9e39fd109dee, 59eee924678f9e39fd109dd4",,,,,,,Arts,Finance,,Health,Travel,Entertainment,Music,Economics,,,,Front-end Engineer,,,,,Android,,Completed one project/course,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,No experience,Completed multiple projects/courses,No experience,Some experience,Some experience,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,,5,5,4,5,5,3,5,5,4,5,4,4,,true,true,59eee924678f9e39fd109dd4
+222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,Finance,,,Travel,Entertainment,Music,Economics,,Gaming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59ef3985678f9e39fd109dd5
+223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Front-end Engineer,Back-end Engineer,,Designer,,Android,,,Completed one project/course,Completed one project/course,,,,,,Some experience,,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,Completed multiple projects/courses,,,5,3,5,3,5,5,,3,3,3,3,3,true,false,,59ef4aa0678f9e39fd109dd6
+224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,Arts,,Politics,,,,,,Social Issues,Gaming,,,,,Designer,,,,,No experience,,,,,,,,,,,,,,,Some experience,,,,,,3,4,4,4,4,3,,4,2,4,4,4,true,false,,59ef5493678f9e39fd109dd8
+225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Social Issues,Gaming,,Front-end Engineer,,,,,,,,Some experience,,Some experience,,No experience,,,,,,,Some experience,Some experience,Some experience,Some experience,Some experience,,,Some experience,,,2,2,2,,4,4,,5,3,4,3,4,true,false,,59ef58ce678f9e39fd109dda
+226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arts,,Politics,,Travel,Entertainment,,Economics,Social Issues,,,Front-end Engineer,Back-end Engineer,Data Scientist,,,,,Completed one project/course,Completed multiple projects/courses,Some experience,Some experience,Some experience,Some experience,Completed one project/course,Completed one project/course,Completed one project/course,Completed one project/course,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed one project/course,Completed multiple projects/courses,Completed one project/course,,5,4,4,4,2,3,4,5,2,5,3,4,true,false,,59ef6624678f9e39fd109ddd
+227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,Completed one project/course,,,,,,,,,,3,3,,3,,,,,,,,59ef717a678f9e39fd109de4
+228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,,Social Issues,,,Front-end Engineer,Back-end Engineer,,,,Android,,,Completed one project/course,Completed one project/course,,,,,,,Completed multiple projects/courses,,,Completed one project/course,,Some experience,Completed one project/course,Completed one project/course,,Some experience,Completed one project/course,,,5,3,4,4,4,4,4,4,4,5,4,4,,true,false,59ef86a1678f9e39fd109de7
+229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,false,59ef8dc3678f9e39fd109de9
+230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,,Health,,,,Economics,,,,,,Data Scientist,,,Android,,,,Some experience,Some experience,,,,,,,,,Some experience,,Completed one project/course,Completed one project/course,Completed one project/course,,,Completed one project/course,,,3,2,3,2,2,5,2,5,3,3,3,3,true,false,,59ef9067678f9e39fd109deb
+231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,Sports,Arts,,,,Travel,Entertainment,Music,,,Gaming,,Front-end Engineer,Back-end Engineer,,,iOS,Android,,Some experience,Completed one project/course,Completed multiple projects/courses,Completed one project/course,Some experience,Completed one project/course,Some experience,,,No experience,,,Some experience,Completed one project/course,Completed multiple projects/courses,,Completed multiple projects/courses,,,Completed multiple projects/courses,Some experience,,5,4,4,5,5,5,5,5,5,5,5,5,false,false,,59efa1c3678f9e39fd109def
+232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Consulting, Software Engineering",Front-end Engineer,Back-end Engineer,,Designer,,,,Completed one project/course,Some experience,Some experience,Some experience,,Some experience,Some experience,Some experience,,,,,Completed multiple projects/courses,Some experience,Completed one project/course,,Completed multiple projects/courses,Some experience,,,,,5,4,5,5,5,5,3,5,5,5,5,5,,true,false,59efb08a678f9e39fd109df5
+233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fashion,,,,Politics,Health,Travel,Entertainment,Music,,Social Issues,,,,Back-end Engineer,,,,,,,,,,,,,,,,,,Some experience,,Some experience,,,,,Some experience,,,,,,,,,,,,,,,false,false,,59efb9e4678f9e39fd109df6
+234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Back-end Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59efcfdb678f9e39fd109dfc
+235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,false,59efef92678f9e39fd109dff
+236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Completed one project/course,,Some experience,Completed one project/course,,Completed one project/course,,No experience,,,,Completed multiple projects/courses,Completed multiple projects/courses,,Completed one project/course,Completed multiple projects/courses,,,Completed one project/course,,,4,3,4,3,5,5,5,5,5,5,5,5,,,,59f01286678f9e39fd109e06
+237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sports,,,,,Travel,,,,,Gaming,,Front-end Engineer,Back-end Engineer,,,iOS,,,Some experience,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,Some experience,Completed one project/course,Completed one project/course,,Completed one project/course,Completed multiple projects/courses,,,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Completed multiple projects/courses,Some experience,,Completed one project/course,Some experience,Completed multiple projects/courses,,4,4,4,4,5,5,5,5,5,5,5,4,true,false,,59f031d2678f9e39fd109e09
+238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finance,Politics,Health,Travel,Entertainment,Music,Economics,Social Issues,Gaming,,Front-end Engineer,Back-end Engineer,,Designer,,,,Some experience,Completed one project/course,,,,Some experience,,,,,,,Completed multiple projects/courses,Completed one project/course,,,Completed one project/course,,,Some experience,,,4,5,4,5,5,5,5,5,5,5,4,4,true,false,,59f0df70678f9e39fd109e11
+0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+330,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+354,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+375,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+390,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+393,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+422,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+432,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+439,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
